@@ -1,0 +1,49 @@
+
+/** Navigation **/
+.colornav{
+    background-color: #202020;
+}
+
+.instalink{
+    color: blueviolet;
+}
+
+.colornav2{
+    background-color: #D90B42;
+}
+
+.translate{
+    transition: 0.5s;
+}
+
+.effect{
+    transition: 0.25s;
+}
+
+.colorFooter{
+    background-color: #94A60A;
+}
+
+.titlefooter{
+color:#D90B42;
+}
+
+
+
+/* Aplica una transformación de traslación en el eje Y al hacer hover */
+.translate:hover {
+    transform: translateY(-7px);
+}
+
+.effect:hover{
+    color: #acc015;
+
+}
+
+
+
+
+/*
+
+ RGB(200, 200, 200) o RGB(255, 255, 255) 
+**/
