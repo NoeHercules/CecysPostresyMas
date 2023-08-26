@@ -94,6 +94,12 @@ background-color: #7ED957;
     background-color: #7ED957;
 }
 
+.best-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media (max-width:1000px){
     .block-cakes{
         height: 22rem;
@@ -123,7 +129,7 @@ background-color: #7ED957;
     flex-direction: column;
        align-items: center;
        justify-content: center;
-       margin-top: -2rem;
+       margin-top: -5rem;
     }
     .cecysC{
         margin-top: 2rem;
@@ -134,5 +140,18 @@ background-color: #7ED957;
     }
     .cCtop{
         margin-top: -4rem;
+    }
+
+    .best-order1{
+        order: 2;
+    }
+    .best-order2{
+        order: 2;
+    }
+    .best-order3{
+        order: 3;
+    }
+    .best-order4{
+        order: 4;
     }
 }
