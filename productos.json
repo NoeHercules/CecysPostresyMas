@@ -1,0 +1,109 @@
+{
+  "categorias": [
+    "todos",
+    "dulces",
+    "salados"
+  ],
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce1.jpg"
+    },
+    {
+      "nombre": "Producto 2",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce2.jpg"
+    },
+    {
+      "nombre": "Producto 3",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce3.jpg"
+    },
+    {
+      "nombre": "Producto 4",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce4.jpg"
+    },
+    {
+      "nombre": "Producto 5",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce5.jpg"
+    },
+    {
+      "nombre": "Producto 6",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce6.jpg"
+    },
+    {
+      "nombre": "Producto 7",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce7.jpg"
+    },
+    {
+      "nombre": "Producto 8",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce8.jpg"
+    },
+    {
+      "nombre": "Producto 9",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce9.jpg"
+    },
+    {
+      "nombre": "Producto 10",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce10.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado1.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado2.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado3.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado4.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado5.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado6.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado7.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado8.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado9.jpg"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado10.jpg"
+    }
+  ]
+}
