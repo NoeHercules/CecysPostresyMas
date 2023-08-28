@@ -56,9 +56,9 @@ async function filterItems(category) {
       const content2Div = document.createElement('div');
       content2Div.classList.add('content');
       const h3 = document.createElement('h3');
-      h3.textContent = 'Hello there!';
+      h3.textContent = product.nombre;
       const p = document.createElement('p');
-      p.textContent = 'Trust yourself and keep going.';
+      p.textContent = product.descripcion;
       content2Div.appendChild(h3);
       content2Div.appendChild(p);
       slide2Div.appendChild(content2Div);
