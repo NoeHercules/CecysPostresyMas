@@ -1,0 +1,129 @@
+{
+  "categorias": [
+    "todos",
+    "dulces",
+    "salados"
+  ],
+  "productos": [
+    {
+      "nombre": "Producto 1",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce1.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 2",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce2.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 3",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce3.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 4",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce4.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 5",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce5.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 6",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce6.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 7",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce7.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 8",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce8.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 9",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce9.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 10",
+      "categoria": "dulces",
+      "imagen": "./assets/img/dulce10.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 1",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado1.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 2",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado2.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 3",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado3.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 4",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado4.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 5",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado5.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 6",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado6.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 7",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado7.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 8",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado8.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 9",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado9.jpg",
+      "descripcion": "Descripcion del producto"
+    },
+    {
+      "nombre": "Producto 10",
+      "categoria": "salados",
+      "imagen": "./assets/img/salado10.jpg",
+      "descripcion": "Descripcion del producto"
+    }
+  ]
+}

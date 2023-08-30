@@ -1,0 +1,305 @@
+/**** Navigation ****/
+
+/* Animacion de toda la barra */
+.fadeInDown { 
+    animation-name: fadeInDown;
+}
+.animatedmain {
+    animation-duration: 1.3s;
+    animation-fill-mode: both;
+}
+/* Animacion del Logo */
+
+.animatedLogo {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+/* Oculta elementos de la barra en pantallas pequeñas*/
+.desaparecer{
+    visibility: visible;
+}
+/* Animacion de movimiento de las opciones en el menu con el cursos encima */
+.translate{ /* desplazamiento */
+    transition: 0.5s;
+}
+.effect{/* transision del color */
+    transition: 0.25s;
+}
+
+/* Ajusta las dimensiones del contenedor del logo, y a su vez el tamaño del logo */
+.contenedorLogo{ 
+    max-width: 100px;
+    margin: 0;
+}
+/* Animacion redes sociales */
+.animatedsocial {
+    animation-duration: 0.7s;
+    animation-fill-mode: both;
+}
+
+/* Ajustes de los enlaces de redes sociales */
+.navbotonface{
+    color: rgb(217, 11, 66);
+    cursor: pointer;
+    background-color: white;
+    transition: 0.2s;
+}
+.navbotonwa{
+    color: rgb(217, 11, 66);
+    cursor: pointer;
+    background-color: white;
+    transition: 0.2s;
+}.navbotonins{
+    color: #e60a46;
+    cursor: pointer;
+    background-color: white;
+    transition: 0.2s;
+}
+.navbotonyou{
+    color: #e60a46;
+    cursor: pointer;
+    background-color: white;
+    transition: 0.2s;
+}
+
+
+
+
+/** Offcanvas Body **/
+
+/* Disminuye el tamaño offcanvas body de forma vertical y horizontal*/
+.recorte{
+    position: fixed;
+    border-top-left-radius: 1%;
+    max-height: 80%;
+    max-width: 40%;
+    background-color:#9a0a30;
+}
+
+/* ajusta las dimensiones del contenedor del logo */
+.containerLogoCanva{ 
+    max-width: 100px;
+    margin: 0;
+}
+
+/* efecto de entrada  */
+.bounceInRight {
+    animation-name: bounceInRight;
+}
+
+.animatedcanva {
+    animation-duration: 3s;
+    animation-fill-mode: both;
+}
+
+/* movimiento redes sociales en canva off body */
+
+.rubberBandCanva{
+    animation-name: rubberBandCanva;
+    animation-iteration-count: 4;
+}
+.animatedsocialcanva {
+    animation-delay: 2.5s;
+    animation-duration: 1.2s;
+    animation-fill-mode: both;
+}
+
+/*** Pseudo Clases ***/
+
+/* Aplica movimiento a las opciones del menu hover */
+.translate:hover {
+    transform: translateY(-7px);
+}
+
+.effect:hover{
+    color: #acc015;
+
+}
+
+/* Animacion Logo */
+.pulse:hover{
+    animation-name: pulse;
+}
+
+/* Animacion redes sociales */
+.rubberBand:hover {
+    animation-name: rubberBand;
+}
+
+
+/* Redes sociales */
+.navbotonface:hover{
+    color: blue;
+    transition: 0.3s;
+}
+.navbotonwa:hover{
+    color: #25d366;
+    transition: 0.3s;
+}
+.navbotonins:hover{
+    color: #833AB4;
+    transition: 0.3s;
+}
+.navbotonyou:hover{
+    color: red;
+    transition: 0.3s;
+}
+
+/* Movimiento animacion entrada hacia abajo barra menu navegacion */
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translate3d(0, -100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+
+/* Movimiento animacion tipo goma redes sociales */
+@keyframes rubberBand {
+    from {
+    transform: scale3d(1, 1, 1);
+    }
+
+    30% {
+    transform: scale3d(1.25, 0.75, 1);
+    }
+
+    40% {
+    transform: scale3d(0.75, 1.25, 1);
+    }
+
+    50% {
+    transform: scale3d(1.15, 0.85, 1);
+    }
+
+    65% {
+    transform: scale3d(0.95, 1.05, 1);
+    }
+
+    75% {
+    transform: scale3d(1.05, 0.95, 1);
+    }
+
+    to {
+    transform: scale3d(1, 1, 1);
+    }
+}
+
+/* Movimiento entrada offcanvas Body */
+
+@keyframes bounceInRight {
+    from, 60%, 75%, 90%, to {
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+    from {
+        opacity: 0;
+        transform: translate3d(3000px, 0, 0);
+    }
+    60% {
+        opacity: 1;
+        transform: translate3d(-7px, 0, 0);
+    }
+    75% {
+        transform: translate3d(15px, 0, 0);
+    }
+    90% {
+        transform: translate3d(-2px, 0, 0);
+    }
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+/* Movimiento animacion tipo goma redes sociales Canva Off Body */
+@keyframes rubberBandCanva{
+    from {
+    transform: scale3d(1, 1, 1);
+    }
+
+    30% {
+    transform: scale3d(1.25, 0.75, 1);
+    }
+
+    40% {
+    transform: scale3d(0.75, 1.25, 1);
+    }
+
+    50% {
+    transform: scale3d(1.15, 0.85, 1);
+    }
+
+    65% {
+    transform: scale3d(0.95, 1.05, 1);
+    }
+
+    75% {
+    transform: scale3d(1.05, 0.95, 1);
+    }
+
+    to {
+    transform: scale3d(1, 1, 1);
+    }
+}
+
+/* Movimiento animacion Logo */
+@keyframes pulse {
+    from {
+        transform: scale3d(1, 1, 1);
+    }
+    50% {
+        transform: scale3d(1.1, 1.1, 1.1);
+    }
+    to {
+        transform: scale3d(1, 1, 1);
+    }
+}
+
+
+/**** Media Query  ****/
+
+/* El boton del menu permanece escondido */
+@media (min-width: 949px){
+    .botonEscondido{
+        position: absolute;
+        clip: rect(0px, 0px, 0px, 0px);
+        visibility: hidden;
+    }
+}
+
+/* Se oculta el contenido de la barra de navegacion y aparece el boton*/
+@media (max-width: 950px){
+    .botonEscondido{
+        visibility: visible;
+    }
+    .desaparecer{
+        position: absolute;
+        clip: rect(0px, 0px, 0px, 0px)
+    }
+}
+
+@media(max-width: 652px){
+    .recorte{
+        border-radius: unset;
+        max-height: 80%;
+        max-width: 100%;
+    }
+}
+
+
+/** Footer **/
+
+.colorFooter{
+    background-color: #ce93a3de;
+}
+
+.titlefooter{
+color:#D90B42;
+}
+
