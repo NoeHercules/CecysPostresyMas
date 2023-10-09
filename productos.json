@@ -2,128 +2,432 @@
   "categorias": [
     "todos",
     "dulces",
-    "salados"
+    "salados",
+    "jaleas",
+    "mermeladas",
+    "panes artesanales",
+    "café caliente",
+    "bebidas frías de café"
   ],
   "productos": [
     {
-      "nombre": "Producto 1",
+      "nombre": "Tiramisú",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce1.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un postre italiano clásico compuesto por capas de bizcocho empapado en café y mascarpone, espolvoreado con cacao en polvo y a menudo decorado con café o licor."
     },
     {
-      "nombre": "Producto 2",
+      "nombre": "Crepas",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce2.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Delgadas y suaves tortitas de masa similar a la de los panqueques, que se pueden rellenar con una variedad de ingredientes dulces como Nutella, frutas frescas o azúcar y limón."
     },
     {
-      "nombre": "Producto 3",
+      "nombre": "Pastel de chocolate",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce3.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un postre icónico que presenta un bizcocho de chocolate húmedo y esponjoso, cubierto con glaseado de chocolate rico y decadente."
     },
     {
-      "nombre": "Producto 4",
+      "nombre": "Flan",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce4.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un postre latinoamericano que consiste en una crema de huevo caramelizada, que se sirve con un caramelo líquido en la parte superior."
     },
     {
-      "nombre": "Producto 5",
+      "nombre": "Helado de vainilla",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce5.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un clásico favorito, este helado cremoso y suave se hace con vainilla natural y es perfecto para acompañar otros postres o disfrutar solo."
     },
     {
-      "nombre": "Producto 6",
+      "nombre": "Cupcakes",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce6.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Pequeños pasteles individuales, generalmente con cobertura de crema batida y decoraciones variadas, que vienen en una amplia gama de sabores y estilos."
     },
     {
-      "nombre": "Producto 7",
+      "nombre": "Tarta de manzana",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce7.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Una tarta de frutas con rebanadas de manzana sazonadas con canela y azúcar, cocidas en una masa de tarta dorada y crujiente."
     },
     {
-      "nombre": "Producto 8",
+      "nombre": "Gelato",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce8.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "El helado italiano, que es más denso y cremoso que el helado tradicional, está disponible en una variedad de sabores, desde frutas frescas hasta nueces y chocolate."
     },
     {
-      "nombre": "Producto 9",
+      "nombre": "Mousse de chocolate",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce9.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un postre suave y aireado hecho con chocolate derretido y crema batida, que se sirve en copas y se decora con crema batida o virutas de chocolate."
     },
     {
-      "nombre": "Producto 10",
+      "nombre": "Brownie",
       "categoria": "dulces",
       "imagen": "./assets/img/dulce10.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un cuadrado de chocolate denso y rico que a menudo contiene nueces y se sirve caliente o a temperatura ambiente."
     },
     {
-      "nombre": "Producto 1",
+      "nombre": "Quiche Lorraine",
       "categoria": "salados",
       "imagen": "./assets/img/salado1.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un pastel salado de origen francés que combina una base de masa quebrada con una mezcla de huevos, crema y tocino, resultando en un sabor cremoso y ahumado."
     },
     {
-      "nombre": "Producto 2",
+      "nombre": "Tarta de cebolla caramelizada",
       "categoria": "salados",
       "imagen": "./assets/img/salado2.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Una deliciosa tarta salada con cebollas caramelizadas que le aportan un sabor dulce y suave, complementado con queso y hierbas aromáticas."
     },
     {
-      "nombre": "Producto 3",
+      "nombre": "Empanadas",
       "categoria": "salados",
       "imagen": "./assets/img/salado3.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Pequeñas tartas rellenas de carne, pollo, pescado o vegetales, que se hornean hasta obtener una masa dorada y crujiente con un relleno sabroso y sazonado."
     },
     {
-      "nombre": "Producto 4",
+      "nombre": "Frittata",
       "categoria": "salados",
       "imagen": "./assets/img/salado4.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Una especie de tortilla italiana hecha con huevos batidos y una variedad de ingredientes como verduras, queso y carnes, cocida en el horno hasta que esté firme y dorada."
     },
     {
-      "nombre": "Producto 5",
+      "nombre": "Samosas",
       "categoria": "salados",
       "imagen": "./assets/img/salado5.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Triángulos de masa rellenos de patatas, guisantes, especias y a veces carne o pollo, que se fríen hasta quedar crujientes y se sirven con salsas picantes."
     },
     {
-      "nombre": "Producto 6",
+      "nombre": "Rollitos de primavera",
       "categoria": "salados",
       "imagen": "./assets/img/salado6.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Delgadas envolturas de masa rellenas de vegetales y a menudo camarones o carne, que se fríen hasta obtener una textura crujiente y se sirven con salsa de inmersión."
     },
     {
-      "nombre": "Producto 7",
+      "nombre": "Tarta de espinacas y ricotta",
       "categoria": "salados",
       "imagen": "./assets/img/salado7.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Una tarta salada con una base de masa quebrada que se rellena con una mezcla de espinacas, ricotta y especias, resultando en un sabor fresco y suave."
     },
     {
-      "nombre": "Producto 8",
+      "nombre": "Croquetas",
       "categoria": "salados",
       "imagen": "./assets/img/salado8.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Pequeñas bolas o cilindros de masa de croqueta rellenos de puré de patata, carne, pescado o vegetales, empanizados y fritos hasta que estén dorados y crujientes."
     },
     {
-      "nombre": "Producto 9",
+      "nombre": "Pastel de pastor",
       "categoria": "salados",
       "imagen": "./assets/img/salado9.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Un plato británico clásico que combina carne picada (generalmente cordero o res) con una capa de puré de papas dorado en el horno, creando una mezcla de sabores y texturas reconfortantes."
     },
     {
-      "nombre": "Producto 10",
+      "nombre": "Blinis con caviar",
       "categoria": "salados",
       "imagen": "./assets/img/salado10.jpg",
-      "descripcion": "Descripcion del producto"
+      "descripcion": "Pequeñas crepes rusas esponjosas que se sirven con caviar y crema agria, creando una deliciosa combinación de sabores salados y cremosos."
+    },
+    {
+      "nombre": "Jalea de fresa",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea1.jpg",
+      "descripcion": "Una clásica y deliciosa jalea roja hecha con jugo de fresas frescas, dulce y ligeramente ácida."
+    },
+    {
+      "nombre": "Jalea de uva",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea2.jpg",
+      "descripcion": "Una jalea morada con un sabor agridulce que proviene del jugo de uvas maduras y su textura suave."
+    },
+    {
+      "nombre": "Jalea de manzana",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea3.jpg",
+      "descripcion": "Una jalea de color dorado hecha a partir de manzanas, con un sabor agridulce y un toque de canela."
+    },
+    {
+      "nombre": "Jalea de frambuesa",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea4.jpg",
+      "descripcion": "Una jalea de color rosa vibrante elaborada con frambuesas que tiene un equilibrio perfecto entre dulzura y acidez."
+    },
+    {
+      "nombre": "Jalea de naranja",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea5.jpg",
+      "descripcion": "Una jalea cítrica y refrescante hecha con jugo de naranjas maduras, con un sabor intenso y un toque de amargura"
+    },
+    {
+      "nombre": "Jalea de pera",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea6.jpg",
+      "descripcion": "Una jalea suave y delicada elaborada con peras maduras, que tiene un sabor suavemente dulce y una fragancia fresca."
+    },
+    {
+      "nombre": "Jalea de grosella",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea7.jpg",
+      "descripcion": "Una jalea de color rojo brillante hecha con grosellas, que es agridulce y ligeramente picante."
+    },
+    {
+      "nombre": "Jalea de piña",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea8.jpg",
+      "descripcion": "Una jalea tropical con un sabor a piña dulce y tropical que evoca recuerdos de verano."
+    },
+    {
+      "nombre": "Jalea de durazno",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea9.jpg",
+      "descripcion": "Una jalea dorada hecha con duraznos maduros, que es dulce y jugosa, con un toque de melocotón."
+    },
+    {
+      "nombre": "Jalea de arándano",
+      "categoria": "jaleas",
+      "imagen": "./assets/img/jalea10.jpg",
+      "descripcion": "Una jalea de color púrpura profundo elaborada con arándanos, que tiene un sabor agridulce y ligeramente amargo, perfecta para acompañar quesos."
+    },
+    {
+      "nombre": "Mermelada de fresa",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada1.jpg",
+      "descripcion": "Esta mermelada se elabora con fresas maduras y es dulce y ligeramente ácida, con trozos de fresa que le dan una textura deliciosa."
+    },
+    {
+      "nombre": "Mermelada de frambuesa",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada2.jpg",
+      "descripcion": "Hecha con frambuesas rojas y jugosas, esta mermelada es intensamente afrutada y ligeramente tartárea, perfecta para untar en tostadas."
+    },
+    {
+      "nombre": "Mermelada de naranja",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada3.jpg",
+      "descripcion": "Con un sabor cítrico y un equilibrio perfecto entre dulzura y acidez, la mermelada de naranja es un clásico atemporal."
+    },
+    {
+      "nombre": "Mermelada de durazno",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada4.jpg",
+      "descripcion": "Elaborada con duraznos maduros, esta mermelada es suave, dulce y con un sabor agradable."
+    },
+    {
+      "nombre": "Mermelada de mora",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada5.jpg",
+      "descripcion": "Las moras aportan un toque oscuro y sabroso a esta mermelada, con un sabor agridulce que la hace única."
+    },
+    {
+      "nombre": "Mermelada de manzana",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada6.jpg",
+      "descripcion": "La mermelada de manzana tiene una textura suave y un sabor suavemente dulce con un toque de canela, perfecta para el desayuno."
+    },
+    {
+      "nombre": "Mermelada de ciruela",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada7.jpg",
+      "descripcion": "Con ciruelas maduras, esta mermelada es rica y ligeramente ácida, con un color púrpura profundo."
+    },
+    {
+      "nombre": "Mermelada de pera",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada8.jpg",
+      "descripcion": "Hecha con peras jugosas, esta mermelada tiene un sabor delicado y una textura suave que la hace perfecta para acompañar quesos."
+    },
+    {
+      "nombre": "Mermelada de uva",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada9.jpg",
+      "descripcion": "La mermelada de uva tiene un sabor concentrado y dulce, ideal para rellenar pasteles o como aderezo para carnes asadas."
+    },
+    {
+      "nombre": "Mermelada de higo",
+      "categoria": "mermeladas",
+      "imagen": "./assets/img/mermelada10.jpg",
+      "descripcion": "Con trozos de higo que le dan una textura especial, esta mermelada es dulce y ligeramente terrosa, ideal para acompañar quesos suaves o yogur."
+    },
+    {
+      "nombre": "Baguette",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes1.jpg",
+      "descripcion": "Un pan francés clásico con una corteza crujiente y una miga suave y aireada en su interior, ideal para hacer sándwiches o acompañar comidas."
+    },
+    {
+      "nombre": "Pan de masa madre",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes2.jpg",
+      "descripcion": "Elaborado con una fermentación natural de levadura, este pan tiene un sabor característico y una textura rústica con una corteza crujiente."
+    },
+    {
+      "nombre": "Pan de centeno",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes3.jpg",
+      "descripcion": "Hecho con harina de centeno, este pan es denso y tiene un sabor distintivo y terroso, a menudo se sirve en rebanadas finas."
+    },
+    {
+      "nombre": "Ciabatta",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes4.jpg",
+      "descripcion": "Un pan italiano conocido por su corteza crujiente y su miga alveolada, que es perfecta para hacer sándwiches de estilo italiano."
+    },
+    {
+      "nombre": "Fougasse",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes5.jpg",
+      "descripcion": "Originario de Francia, este pan se asemeja a una hoja o una espiga y puede estar relleno de ingredientes como aceitunas, hierbas o queso."
+    },
+    {
+      "nombre": "Pumpernickel",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes6.jpg",
+      "descripcion": "Un pan alemán muy oscuro y denso, hecho con harina de centeno y a menudo melaza o café, que le confieren su color y sabor únicos."
+    },
+    {
+      "nombre": "Challah",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes7.jpg",
+      "descripcion": "Un pan trenzado tradicional de origen judío, que es suave y ligeramente dulce, ideal para ocasiones especiales y festivas."
+    },
+    {
+      "nombre": "Pan de nueces y pasas",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes8.jpg",
+      "descripcion": "Un pan enriquecido con nueces y pasas, que aportan un toque de dulzura y textura crujiente a la miga."
+    },
+    {
+      "nombre": "Pan de ajo",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes9.jpg",
+      "descripcion": "Un pan aromatizado con ajo, mantequilla y hierbas, que se hornea hasta que esté dorado y se sirve como aperitivo o acompañamiento."
+    },
+    {
+      "nombre": "Pan de aceitunas",
+      "categoria": "panes artesanales",
+      "imagen": "./assets/img/panes10.jpg",
+      "descripcion": "Hecho con aceitunas picadas en la masa, este pan tiene un sabor salado y mediterráneo que lo hace perfecto para acompañar quesos y embutidos."
+    },
+    {
+      "nombre": "Espresso",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe1.jpg",
+      "descripcion": "Un café concentrado y fuerte, servido en una pequeña taza, con una capa de crema en la parte superior."
+    },
+    {
+      "nombre": "Doppio",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe2.jpg",
+      "descripcion": "Similar al espresso, pero se sirve el doble de cantidad, lo que lo hace aún más intenso."
+    },
+    {
+      "nombre": "Café Americano",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe3.jpg",
+      "descripcion": "Un espresso al que se le añade agua caliente, resultando en una bebida más suave y diluida."
+    },
+    {
+      "nombre": "Cappuccino",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe4.jpg",
+      "descripcion": "Una mezcla de espresso, leche caliente y espuma de leche, con una relación equilibrada entre café y lácteos."
+    },
+    {
+      "nombre": "Latte",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe5.jpg",
+      "descripcion": "Una bebida de café que consta principalmente de espresso y leche caliente, con una pequeña cantidad de espuma de leche en la parte superior."
+    },
+    {
+      "nombre": "Macchiato",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe6.jpg",
+      "descripcion": "Un espresso manchado, con una pequeña cantidad de leche caliente o espuma de leche."
+    },
+    {
+      "nombre": "Ristretto",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe7.jpg",
+      "descripcion": "Un espresso aún más concentrado que el tradicional, con menos agua y un sabor más intenso."
+    },
+    {
+      "nombre": "Corretto",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe8.jpg",
+      "descripcion": "Un espresso con un toque de licor, como grappa, sambuca o brandy, que le añade un sabor alcohólico."
+    },
+    {
+      "nombre": "Mocha",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe9.jpg",
+      "descripcion": "Una mezcla de espresso, chocolate caliente y leche, que combina el sabor del café con el del cacao."
+    },
+    {
+      "nombre": "Marocchino",
+      "categoria": "café caliente",
+      "imagen": "./assets/img/cafe1O.jpg",
+      "descripcion": "Un espresso servido con cacao en polvo y espuma de leche, con un toque de cacao en la taza para darle sabor."
+    },
+    {
+      "nombre": "Café helado",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio1.jpg",
+      "descripcion": "Un café preparado con espresso o café filtrado que se enfría y se sirve sobre hielo, a menudo endulzado y con leche o crema."
+    },
+    {
+      "nombre": "Café frappe",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio2.jpg",
+      "descripcion": "Café instantáneo mezclado con hielo, azúcar y leche, a menudo batido hasta obtener una textura cremosa y espumosa."
+    },
+    {
+      "nombre": "Café con hielo",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio3.jpg",
+      "descripcion": "Similar al café helado, pero generalmente se prepara con espresso y se vierte directamente sobre hielo."
+    },
+    {
+      "nombre": "Café shakerato",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio4.jpg",
+      "descripcion": "Un espresso fuerte que se mezcla vigorosamente con hielo y azúcar en una coctelera, creando una bebida refrescante y espumosa."
+    },
+    {
+      "nombre": "Café con leche frío",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio5.jpg",
+      "descripcion": "Café espresso o café filtrado que se enfría y se mezcla con leche fría, a menudo endulzado y servido con hielo."
+    },
+    {
+      "nombre": "Affogato",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio6.jpg",
+      "descripcion": "Una bola de helado (generalmente vainilla) que se ahoga con un shot de espresso caliente, creando una combinación de sabores de café y helado."
+    },
+    {
+      "nombre": "Café freddo",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio7.jpg",
+      "descripcion": "Un espresso dulce enfriado con azúcar, que se sirve con hielo y una rodaja de limón."
+    },    {
+      "nombre": "Granita de café",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio8.jpg",
+      "descripcion": "Café fuerte mezclado con azúcar y hielo triturado hasta obtener una textura granulada, similar a un postre congelado."
+    },
+    {
+      "nombre": "Café con crema",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio9.jpg",
+      "descripcion": "Un espresso al que se le añade una cucharada de crema batida o espesa, a menudo decorado con cacao en polvo o canela."
+    },
+    {
+      "nombre": "Café con amaretto",
+      "categoria": "bebidas frías de café",
+      "imagen": "./assets/img/frio10.jpg",
+      "descripcion": "Un café espresso con un toque de licor de amaretto, que le añade un sabor almendrado y un toque de dulzura."
     }
   ]
 }
