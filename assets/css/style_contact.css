@@ -148,7 +148,7 @@ section.left .socialMedia{
 }
 .socialMedia a:hover{
     transform: translateY(-5px);
-    background-color: #2e2e2e;
+    background-color: #ffffff;
     color: #D90B42;
     border: 1px solid #D90B42;
 }

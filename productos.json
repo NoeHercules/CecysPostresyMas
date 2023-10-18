@@ -253,180 +253,180 @@
     {
       "nombre": "Baguette",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes1.jpg",
+      "imagen": "./assets/img/panes1.jpeg",
       "descripcion": "Un pan francés clásico con una corteza crujiente y una miga suave y aireada en su interior, ideal para hacer sándwiches o acompañar comidas."
     },
     {
       "nombre": "Pan de masa madre",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes2.jpg",
+      "imagen": "./assets/img/panes2.jpeg",
       "descripcion": "Elaborado con una fermentación natural de levadura, este pan tiene un sabor característico y una textura rústica con una corteza crujiente."
     },
     {
       "nombre": "Pan de centeno",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes3.jpg",
+      "imagen": "./assets/img/panes3.jpeg",
       "descripcion": "Hecho con harina de centeno, este pan es denso y tiene un sabor distintivo y terroso, a menudo se sirve en rebanadas finas."
     },
     {
       "nombre": "Ciabatta",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes4.jpg",
+      "imagen": "./assets/img/panes4.jpeg",
       "descripcion": "Un pan italiano conocido por su corteza crujiente y su miga alveolada, que es perfecta para hacer sándwiches de estilo italiano."
     },
     {
       "nombre": "Fougasse",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes5.jpg",
+      "imagen": "./assets/img/panes1.jpeg",
       "descripcion": "Originario de Francia, este pan se asemeja a una hoja o una espiga y puede estar relleno de ingredientes como aceitunas, hierbas o queso."
     },
     {
       "nombre": "Pumpernickel",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes6.jpg",
+      "imagen": "./assets/img/panes2.jpeg",
       "descripcion": "Un pan alemán muy oscuro y denso, hecho con harina de centeno y a menudo melaza o café, que le confieren su color y sabor únicos."
     },
     {
       "nombre": "Challah",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes7.jpg",
+      "imagen": "./assets/img/panes3.jpeg",
       "descripcion": "Un pan trenzado tradicional de origen judío, que es suave y ligeramente dulce, ideal para ocasiones especiales y festivas."
     },
     {
       "nombre": "Pan de nueces y pasas",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes8.jpg",
+      "imagen": "./assets/img/panes4.jpeg",
       "descripcion": "Un pan enriquecido con nueces y pasas, que aportan un toque de dulzura y textura crujiente a la miga."
     },
     {
       "nombre": "Pan de ajo",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes9.jpg",
+      "imagen": "./assets/img/panes1.jpeg",
       "descripcion": "Un pan aromatizado con ajo, mantequilla y hierbas, que se hornea hasta que esté dorado y se sirve como aperitivo o acompañamiento."
     },
     {
       "nombre": "Pan de aceitunas",
       "categoria": "panes artesanales",
-      "imagen": "./assets/img/panes10.jpg",
+      "imagen": "./assets/img/panes2.jpeg",
       "descripcion": "Hecho con aceitunas picadas en la masa, este pan tiene un sabor salado y mediterráneo que lo hace perfecto para acompañar quesos y embutidos."
     },
     {
       "nombre": "Espresso",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe1.jpg",
+      "imagen": "./assets/img/cafe1.jpeg",
       "descripcion": "Un café concentrado y fuerte, servido en una pequeña taza, con una capa de crema en la parte superior."
     },
     {
       "nombre": "Doppio",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe2.jpg",
+      "imagen": "./assets/img/cafe2.jpeg",
       "descripcion": "Similar al espresso, pero se sirve el doble de cantidad, lo que lo hace aún más intenso."
     },
     {
       "nombre": "Café Americano",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe3.jpg",
+      "imagen": "./assets/img/cafe3.jpeg",
       "descripcion": "Un espresso al que se le añade agua caliente, resultando en una bebida más suave y diluida."
     },
     {
       "nombre": "Cappuccino",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe4.jpg",
+      "imagen": "./assets/img/cafe4.jpeg",
       "descripcion": "Una mezcla de espresso, leche caliente y espuma de leche, con una relación equilibrada entre café y lácteos."
     },
     {
       "nombre": "Latte",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe5.jpg",
+      "imagen": "./assets/img/cafe5.jpeg",
       "descripcion": "Una bebida de café que consta principalmente de espresso y leche caliente, con una pequeña cantidad de espuma de leche en la parte superior."
     },
     {
       "nombre": "Macchiato",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe6.jpg",
+      "imagen": "./assets/img/cafe1.jpeg",
       "descripcion": "Un espresso manchado, con una pequeña cantidad de leche caliente o espuma de leche."
     },
     {
       "nombre": "Ristretto",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe7.jpg",
+      "imagen": "./assets/img/cafe2.jpeg",
       "descripcion": "Un espresso aún más concentrado que el tradicional, con menos agua y un sabor más intenso."
     },
     {
       "nombre": "Corretto",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe8.jpg",
+      "imagen": "./assets/img/cafe3.jpeg",
       "descripcion": "Un espresso con un toque de licor, como grappa, sambuca o brandy, que le añade un sabor alcohólico."
     },
     {
       "nombre": "Mocha",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe9.jpg",
+      "imagen": "./assets/img/cafe4.jpeg",
       "descripcion": "Una mezcla de espresso, chocolate caliente y leche, que combina el sabor del café con el del cacao."
     },
     {
       "nombre": "Marocchino",
       "categoria": "café caliente",
-      "imagen": "./assets/img/cafe1O.jpg",
+      "imagen": "./assets/img/cafe5.jpeg",
       "descripcion": "Un espresso servido con cacao en polvo y espuma de leche, con un toque de cacao en la taza para darle sabor."
     },
     {
       "nombre": "Café helado",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio1.jpg",
+      "imagen": "./assets/img/frio1.jpeg",
       "descripcion": "Un café preparado con espresso o café filtrado que se enfría y se sirve sobre hielo, a menudo endulzado y con leche o crema."
     },
     {
       "nombre": "Café frappe",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio2.jpg",
+      "imagen": "./assets/img/frio2.jpeg",
       "descripcion": "Café instantáneo mezclado con hielo, azúcar y leche, a menudo batido hasta obtener una textura cremosa y espumosa."
     },
     {
       "nombre": "Café con hielo",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio3.jpg",
+      "imagen": "./assets/img/frio3.jpeg",
       "descripcion": "Similar al café helado, pero generalmente se prepara con espresso y se vierte directamente sobre hielo."
     },
     {
       "nombre": "Café shakerato",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio4.jpg",
+      "imagen": "./assets/img/frio4.jpeg",
       "descripcion": "Un espresso fuerte que se mezcla vigorosamente con hielo y azúcar en una coctelera, creando una bebida refrescante y espumosa."
     },
     {
       "nombre": "Café con leche frío",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio5.jpg",
+      "imagen": "./assets/img/frio5.jpeg",
       "descripcion": "Café espresso o café filtrado que se enfría y se mezcla con leche fría, a menudo endulzado y servido con hielo."
     },
     {
       "nombre": "Affogato",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio6.jpg",
+      "imagen": "./assets/img/frio1.jpeg",
       "descripcion": "Una bola de helado (generalmente vainilla) que se ahoga con un shot de espresso caliente, creando una combinación de sabores de café y helado."
     },
     {
       "nombre": "Café freddo",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio7.jpg",
+      "imagen": "./assets/img/frio2.jpeg",
       "descripcion": "Un espresso dulce enfriado con azúcar, que se sirve con hielo y una rodaja de limón."
     },    {
       "nombre": "Granita de café",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio8.jpg",
+      "imagen": "./assets/img/frio3.jpeg",
       "descripcion": "Café fuerte mezclado con azúcar y hielo triturado hasta obtener una textura granulada, similar a un postre congelado."
     },
     {
       "nombre": "Café con crema",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio9.jpg",
+      "imagen": "./assets/img/frio4.jpeg",
       "descripcion": "Un espresso al que se le añade una cucharada de crema batida o espesa, a menudo decorado con cacao en polvo o canela."
     },
     {
       "nombre": "Café con amaretto",
       "categoria": "bebidas frías de café",
-      "imagen": "./assets/img/frio10.jpg",
+      "imagen": "./assets/img/frio5.jpeg",
       "descripcion": "Un café espresso con un toque de licor de amaretto, que le añade un sabor almendrado y un toque de dulzura."
     }
   ]

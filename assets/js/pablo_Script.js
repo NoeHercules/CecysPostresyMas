@@ -16,7 +16,7 @@ async function setupMenu() {
   const menuContainer = document.querySelector('.menu');
   categories.forEach(category => {
     const categoryButton = document.createElement('button');
-    categoryButton.classList.add('btn', 'btn-primary');
+    categoryButton.classList.add('btn', 'btn-danger', 'mx-2');
     categoryButton.textContent = category;
     categoryButton.addEventListener('click', () => filterItems(category));
     menuContainer.appendChild(categoryButton);
