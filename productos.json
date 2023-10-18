@@ -145,7 +145,7 @@
     {
       "nombre": "Jalea de manzana",
       "categoria": "jaleas",
-      "imagen": "./assets/img/jalea3.jpg",
+      "imagen": "./assets/img/jalea3.png",
       "descripcion": "Una jalea de color dorado hecha a partir de manzanas, con un sabor agridulce y un toque de canela."
     },
     {
@@ -163,19 +163,19 @@
     {
       "nombre": "Jalea de pera",
       "categoria": "jaleas",
-      "imagen": "./assets/img/jalea6.jpg",
+      "imagen": "./assets/img/jalea6.png",
       "descripcion": "Una jalea suave y delicada elaborada con peras maduras, que tiene un sabor suavemente dulce y una fragancia fresca."
     },
     {
       "nombre": "Jalea de grosella",
       "categoria": "jaleas",
-      "imagen": "./assets/img/jalea7.jpg",
+      "imagen": "./assets/img/jalea7.png",
       "descripcion": "Una jalea de color rojo brillante hecha con grosellas, que es agridulce y ligeramente picante."
     },
     {
       "nombre": "Jalea de piña",
       "categoria": "jaleas",
-      "imagen": "./assets/img/jalea8.jpg",
+      "imagen": "./assets/img/jalea8.png",
       "descripcion": "Una jalea tropical con un sabor a piña dulce y tropical que evoca recuerdos de verano."
     },
     {
@@ -187,67 +187,67 @@
     {
       "nombre": "Jalea de arándano",
       "categoria": "jaleas",
-      "imagen": "./assets/img/jalea10.jpg",
+      "imagen": "./assets/img/jalea10.png",
       "descripcion": "Una jalea de color púrpura profundo elaborada con arándanos, que tiene un sabor agridulce y ligeramente amargo, perfecta para acompañar quesos."
     },
     {
       "nombre": "Mermelada de fresa",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada1.jpg",
+      "imagen": "./assets/img/mermelada1.png",
       "descripcion": "Esta mermelada se elabora con fresas maduras y es dulce y ligeramente ácida, con trozos de fresa que le dan una textura deliciosa."
     },
     {
       "nombre": "Mermelada de frambuesa",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada2.jpg",
+      "imagen": "./assets/img/mermelada2.png",
       "descripcion": "Hecha con frambuesas rojas y jugosas, esta mermelada es intensamente afrutada y ligeramente tartárea, perfecta para untar en tostadas."
     },
     {
       "nombre": "Mermelada de naranja",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada3.jpg",
+      "imagen": "./assets/img/mermelada3.png",
       "descripcion": "Con un sabor cítrico y un equilibrio perfecto entre dulzura y acidez, la mermelada de naranja es un clásico atemporal."
     },
     {
       "nombre": "Mermelada de durazno",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada4.jpg",
+      "imagen": "./assets/img/mermelada4.png",
       "descripcion": "Elaborada con duraznos maduros, esta mermelada es suave, dulce y con un sabor agradable."
     },
     {
       "nombre": "Mermelada de mora",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada5.jpg",
+      "imagen": "./assets/img/mermelada5.png",
       "descripcion": "Las moras aportan un toque oscuro y sabroso a esta mermelada, con un sabor agridulce que la hace única."
     },
     {
       "nombre": "Mermelada de manzana",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada6.jpg",
+      "imagen": "./assets/img/mermelada6.png",
       "descripcion": "La mermelada de manzana tiene una textura suave y un sabor suavemente dulce con un toque de canela, perfecta para el desayuno."
     },
     {
       "nombre": "Mermelada de ciruela",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada7.jpg",
+      "imagen": "./assets/img/mermelada7.png",
       "descripcion": "Con ciruelas maduras, esta mermelada es rica y ligeramente ácida, con un color púrpura profundo."
     },
     {
       "nombre": "Mermelada de pera",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada8.jpg",
+      "imagen": "./assets/img/mermelada8.png",
       "descripcion": "Hecha con peras jugosas, esta mermelada tiene un sabor delicado y una textura suave que la hace perfecta para acompañar quesos."
     },
     {
       "nombre": "Mermelada de uva",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada9.jpg",
+      "imagen": "./assets/img/mermelada9.png",
       "descripcion": "La mermelada de uva tiene un sabor concentrado y dulce, ideal para rellenar pasteles o como aderezo para carnes asadas."
     },
     {
       "nombre": "Mermelada de higo",
       "categoria": "mermeladas",
-      "imagen": "./assets/img/mermelada10.jpg",
+      "imagen": "./assets/img/mermelada10.png",
       "descripcion": "Con trozos de higo que le dan una textura especial, esta mermelada es dulce y ligeramente terrosa, ideal para acompañar quesos suaves o yogur."
     },
     {
